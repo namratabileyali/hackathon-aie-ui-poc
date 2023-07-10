@@ -2,4 +2,5 @@
   <version>1</version>
   <threadsafe>true</threadsafe>
   <runtime>java8</runtime>
+  <module>sie-ui</module>
 </appengine-web-app>
